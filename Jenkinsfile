@@ -9,7 +9,10 @@ pipeline {
 
     stage('Packaging') {
       steps {
-        withGradle()
+        withGradle() {
+          echo 'Success'
+        }
+
       }
     }
 
