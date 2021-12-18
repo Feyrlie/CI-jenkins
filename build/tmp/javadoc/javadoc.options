@@ -1,0 +1,9 @@
+-classpath 'C:\\SonarQube\\project_demo\\GradleDemo\\build\\classes\\java\\main;C:\\SonarQube\\project_demo\\GradleDemo\\build\\resources\\main'
+-d 'C:\\SonarQube\\project_demo\\GradleDemo\\build\\docs\\javadoc'
+-doctitle 'GradleDemo 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'GradleDemo 1.0-SNAPSHOT API'
+'C:\\SonarQube\\project_demo\\GradleDemo\\src\\main\\java\\AllCocktails.java'
+'C:\\SonarQube\\project_demo\\GradleDemo\\src\\main\\java\\CocktailMixer.java'
+'C:\\SonarQube\\project_demo\\GradleDemo\\src\\main\\java\\SearchCocktails.java'
